@@ -1,0 +1,5 @@
+name = "url-shortener"
+compatibility_date = "2025-10-25"
+
+# اگر بعدا خواستی از wrangler روی لوکال استفاده کنی، account_id رو اینجا بذار
+# account_id = "your-cloudflare-account-id"
